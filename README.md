@@ -35,6 +35,12 @@ Dividing our UI into fragments makes it easier to modify our activity's appearan
 >If you want to try building your first Android fragment by following Android documentation, start [Creating your Fragment here](https://developer.android.com/guide/fragments/create/)!  
 >This documentation describes how to create a fragment and include it in an activity.
 <br/>
+
+## Video for further learning
+[Single Activity: Why, When, and How (Android Dev Summit ‘18)](https://www.youtube.com/watch?v=2k8x8V77CrU)
+
+[Fragments: Past, Present, and Future (Android Dev Summit '19)](https://www.youtube.com/watch?v=RS1IACnZLy4)
+<br/>
 <br/>
 
 Thank you,  
