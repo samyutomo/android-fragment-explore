@@ -1,0 +1,2 @@
+Images list:
+- fragment-illustration.png (image example of fragment)
