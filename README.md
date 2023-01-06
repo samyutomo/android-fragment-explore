@@ -22,7 +22,12 @@ Consider an app that responds to various screen sizes. On larger screens, the ap
 <br/>
 <br/>
 <br/>
-[![Fragment][fragment-illustration]](misc/fragment-illustration.png)
+
+[![Fragment UI][fragment-illustration]](misc/fragment-illustration.png)
+
+<img src="misc/fragment-action.gif" width="1530" />
+
+
 <p align="center"><i>illustration of Fragment UI</i></p>
 
 <br/>
@@ -53,3 +58,4 @@ Thank you,
 [stars-shield]: https://img.shields.io/github/stars/samyutomo/android-fragment-explore?color=yellow&style=for-the-badge
 [stars-url]: https://github.com/samyutomo/android-fragment-explore/stargazers
 [fragment-illustration]: misc/fragment-illustration.png
+[fragment-animate]: misc/fragment-action.gif
