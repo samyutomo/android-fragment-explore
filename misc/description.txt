@@ -1,2 +1,3 @@
 Images list:
 - fragment-illustration.png (image example of fragment)
+- fragment-action.gif (fragment animate)
